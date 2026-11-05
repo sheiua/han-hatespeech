@@ -1,2 +1,0 @@
-Letakkan han_model.pt (hasil notebook final 6 label, bagian 14) di folder ini.
-Setelah itu file ini boleh dihapus.
